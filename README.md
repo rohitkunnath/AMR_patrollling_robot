@@ -5,6 +5,16 @@ The robot navigates autonomously in a simulated environment using the **Nav2** n
 
 ---
 
+---
+
+## 🎥 Demonstration
+
+Click the image below to watch the AMR Patrolling Robot demo (Gazebo + RViz2):
+
+[![Watch the demo](demo_image.jpg)](https://drive.google.com/file/d/1lvY01HLwBEuXTN-Q_U908jTQ7K1e7KTk/view?usp=sharing)
+
+---
+
 ## 🧩 Prerequisites
 
 Before running this project, ensure the following are installed and working correctly:
